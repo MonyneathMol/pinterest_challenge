@@ -4,6 +4,55 @@
    <FileRef
       location = "group:Readme.md">
    </FileRef>
+   <Group
+      location = "group:FurnitureApp/FurnitureApp"
+      name = "FurnitureApp">
+      <Group
+         location = "group:FurnitureApp/FurnitureApp/Views"
+         name = "Views">
+         <FileRef
+            location = "group:FurnitureApp/FurnitureApp/Views/ItemRow.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:FurnitureApp/FurnitureApp/Models"
+         name = "Models">
+         <FileRef
+            location = "group:FurnitureApp/FurnitureApp/Models/Furniture.swift">
+         </FileRef>
+         <FileRef
+            location = "group:FurnitureApp/FurnitureApp/Models/ModelData.swift">
+         </FileRef>
+         <FileRef
+            location = "group:FurnitureApp/FurnitureApp/Models/furnitures.json">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:FurnitureApp/FurnitureApp/FurnitureAppApp.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FurnitureApp/FurnitureApp/ContentView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FurnitureApp/FurnitureApp/Assets.xcassets">
+      </FileRef>
+      <Group
+         location = "group:FurnitureApp/FurnitureApp/Preview Content"
+         name = "Preview Content">
+         <FileRef
+            location = "group:FurnitureApp/FurnitureApp/Preview Content/Preview Assets.xcassets">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:FurnitureApp/FurnitureApp/HomeView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FurnitureApp/FurnitureApp/UIScreenExtension.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FurnitureApp/FurnitureApp/SearchTextField.swift">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:FurnitureApp/FurnitureApp.xcodeproj">
    </FileRef>
